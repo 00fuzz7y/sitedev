@@ -9,7 +9,7 @@
 ## modern solution is almost identical
 
 - [ ] get the tools needed:
+	- [ ] django: gh repo clone django/django
 	- [ ] 
-- [ ] 
 - [ ] dl'd
 - [ ] install'd 

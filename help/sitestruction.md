@@ -13,5 +13,3 @@ scripts.js - tells the server how to manipulate that document as needed
 ### **HOWEVER, NO PAGE IS WRITTEN HEAD TO FOOT ANYMORE** 
 
 We are going to try two different attempts, using two different sets of tools and hopefully we can iron them out to the point we can compare their progress
-
-
